@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "kamaldde.dddddd@gmail.com",
+      "password": "kamaldde.dddddd@gmail.com",
+      "email": "kamaldde.dddddd@gmail.com",
+      "image": "image-1694012199927-772563303",
+      "id": 1
+    },
+    {
+      "username": "kamaldded.dddddd@gmail.com",
+      "password": "kamaldded.dddddd@gmail.com",
+      "email": "kamaldded.dddddd@gmail.com",
+      "image": "1a65e6cd4a4954928befaff075a6e716",
+      "id": 2
+    }
+  ]
+}
